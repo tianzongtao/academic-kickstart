@@ -1,6 +1,4 @@
-# IDEs
-.idea/
-
-# Hugo
-resources/
+.*
+!.gitignore
 public/
+themes/
